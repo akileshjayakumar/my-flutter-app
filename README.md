@@ -1,16 +1,67 @@
-# myapp
+# Flutter To-Do List App
 
-A new Flutter project.
+This is a simple To-Do List application built using Flutter. The app allows users to add tasks to a list and mark them as complete.
+
+## Features
+
+- Add tasks to the list
+- Remove tasks from the list
+- Simple and clean user interface
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this project, follow the steps below:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- [Dart SDK](https://dart.dev/get-dart)
+- An IDE with Flutter support (e.g., [Android Studio](https://developer.android.com/studio), [Visual Studio Code](https://code.visualstudio.com/))
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/your-repo-name.git
+   cd your-repo-name
+   ```
+
+2. Get the required dependencies:
+   ```sh
+   flutter pub get
+   ```
+
+### Running the App
+
+1. Run the app on an emulator or a physical device:
+   ```sh
+   flutter run
+   ```
+
+## Project Structure
+
+```
+.
+├── android             # Android-specific files
+├── build               # Generated files (ignored by git)
+├── ios                 # iOS-specific files
+├── lib                 # Dart files
+│   ├── main.dart       # Main entry point of the app
+├── test                # Unit and widget tests
+├── .gitignore          # Git ignore file
+├── README.md           # This README file
+└── pubspec.yaml        # Pub package configuration
+```
+
+## Contributing
+
+Contributions are welcome! Please fork this repository and submit a pull request for any bug fixes, enhancements, or new features.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
