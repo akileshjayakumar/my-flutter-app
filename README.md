@@ -55,11 +55,21 @@ To get started with this project, follow the steps below:
 
 ## Contributing
 
-Contributions are welcome! Please fork this repository and submit a pull request for any bug fixes, enhancements, or new features.
+Your contributions are welcome! If you have ideas for improvements or new features:
 
-## License
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -am 'Add some feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Submit a pull request.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Contact Information
+
+For more information, please reach out to me at:
+
+- **Email**: jayakuma006@mymail.sim.edu.sg
+- **LinkedIn**: [Akilesh Jayakumar on LinkedIn](https://www.linkedin.com/in/akileshjayakumar/)
+- **GitHub**: [Akilesh Jayakumar on GitHub](https://github.com/akileshjayakumar)
 
 ## Acknowledgments
 
